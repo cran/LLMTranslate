@@ -1,6 +1,6 @@
 Package: LLMTranslate
 Title: 'shiny' App for TRAPD/ISPOR Survey Translation with LLMs
-Version: 0.3.0
+Version: 0.4.0
 Authors@R: 
     person(given = "Jonas R.", family = "Kunst",
            email = "jonas.r.kunst@bi.no",
@@ -24,8 +24,8 @@ Suggests: DT, readxl, writexl, openxlsx, httr2, jsonlite, glue, later,
         testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2026-01-12 16:36:47 UTC; A2310316
+Packaged: 2026-06-18 14:19:13 UTC; A2310316
 Author: Jonas R. Kunst [aut, cre]
 Maintainer: Jonas R. Kunst <jonas.r.kunst@bi.no>
 Repository: CRAN
-Date/Publication: 2026-01-12 17:00:02 UTC
+Date/Publication: 2026-06-18 14:40:02 UTC
